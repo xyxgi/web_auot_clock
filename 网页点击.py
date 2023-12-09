@@ -19,3 +19,5 @@ for i in range(2,7):
     
 while 1 :
     pass
+
+print('main add')
