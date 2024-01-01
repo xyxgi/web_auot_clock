@@ -21,3 +21,5 @@ while 1 :
     pass
 
 print('main add')
+
+print('2024 01 01 add')
